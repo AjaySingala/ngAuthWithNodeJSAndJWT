@@ -5,6 +5,8 @@ npm init -y
 
 npm install --E cors@2.8.5 nodemon@1.18.10 bcryptjs@2.4.3 sqlite3@4.0.6 njwt@1.0.0 express@4.16.4 body-parser@1.18.3 express-bearer-token@2.2.0
 
+npm start
+
 JWT Client:
 ng new jwt-client --routing --style=css  
 
