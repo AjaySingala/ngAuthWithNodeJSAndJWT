@@ -1,4 +1,4 @@
-JWT Server:
+JWT Server (NodeJS):
 cd jwt-server
 
 npm init -y
@@ -7,7 +7,7 @@ npm install --E cors@2.8.5 nodemon@1.18.10 bcryptjs@2.4.3 sqlite3@4.0.6 njwt@1.0
 
 npm start
 
-JWT Client:
+JWT Client (Angular):
 ng new jwt-client --routing --style=css  
 
 npm install -E foundation-sites@6.5.3 ngx-foundation@1.0.8
